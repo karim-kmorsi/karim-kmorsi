@@ -5,7 +5,7 @@
 **AI-Assisted Software & Digital Solutions**  
 *Building practical tools, learning by doing, and improving through real projects.*
 
-[GitHub](https://github.com/karim-kmorsi) · [Karim AI](https://github.com/karim-kmorsi/Karim-AI) · [ZOOM CCTV Manager](https://github.com/karim-kmorsi/ZOOM-CCTV-Manager)
+[GitHub](https://github.com/karim-kmorsi) · [Karim AI](https://github.com/karim-kmorsi/Karim-AI)
 
 </div>
 
@@ -28,11 +28,6 @@ I’m building my skills through real projects and aim to describe each project�
 A personal project exploring a modular, local-first AI software engineering assistant. The long-term goal is to help plan projects, work with files and development tools, run tests, diagnose failures, and report results based on evidence.
 
 **Status:** Early-stage project. The foundation and implementation are still being evaluated and developed.
-
-### [ZOOM CCTV Manager](https://github.com/karim-kmorsi/ZOOM-CCTV-Manager)
-A progressive web app designed to help CCTV technicians manage customers, quotations, project estimates, and business records. It uses local browser storage and supports backup and restore, PDF workflows, and offline use after the initial successful load.
-
-See the repository documentation for implementation details, current scope, and known limitations.
 
 ## Tools & Technologies
 
@@ -82,9 +77,6 @@ See the repository documentation for implementation details, current scope, and 
 مشروع قيد التطوير لاستكشاف بناء مساعد هندسة برمجيات يعمل محليًا قدر الإمكان. الهدف طويل المدى هو مساعدتي في تخطيط المشروعات، والعمل مع الملفات وأدوات التطوير، وتشغيل الاختبارات، وتشخيص الأخطاء، والإبلاغ عن النتائج بناءً على أدلة فعلية.
 
 *الحالة الحالية: المشروع في مرحلة التأسيس؛ لم يُحسم بعد اختيار الأساس التقني النهائي ولم يكتمل التنفيذ.*
-
-**[ZOOM CCTV Manager](https://github.com/karim-kmorsi/ZOOM-CCTV-Manager)**  
-تطبيق ويب تقدمي لمساعدة فنيي كاميرات المراقبة في إدارة العملاء وعروض الأسعار وتقديرات المشروعات والسجلات التشغيلية. يعتمد على التخزين المحلي في المتصفح، ويوفر وظائف للنسخ الاحتياطي والاستعادة وإنشاء ملفات PDF والعمل دون اتصال بعد التحميل الأول الناجح.
 
 ### أسلوبي في العمل
 
